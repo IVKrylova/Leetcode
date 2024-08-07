@@ -15,3 +15,5 @@
 
 #math
 50_pow(x,n).js
+842_split_array_into_fibonacci_sequence.js
+873_length_of_longest_fibonacci_subsequence.js
