@@ -17,5 +17,3 @@ const distanceTraveled = function (mainTank, additionalTank) {
   }
   return res * 10;
 };
-
-distanceTraveled(5, 10)

@@ -40,4 +40,3 @@ const findMinFibonacciNumbers = function (k) {
   return res.length;
 };
 
-findMinFibonacciNumbers(3);

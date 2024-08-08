@@ -21,4 +21,3 @@ const kthDistinct = function (arr, k) {
   return res;
 };
 
-kthDistinct(["d", "b", "c", "b", "c", "a"], 2);

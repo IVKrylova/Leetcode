@@ -9,4 +9,3 @@ const passThePillow = function (n, time) {
   return order === 0 ? arr[remainder] : arr.reverse()[remainder];
 };
 
-passThePillow(18, 38);

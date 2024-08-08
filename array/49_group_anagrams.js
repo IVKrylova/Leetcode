@@ -22,4 +22,3 @@ const groupAnagrams = function (strs) {
   return res;
 };
 
-groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]);

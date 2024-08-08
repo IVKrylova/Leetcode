@@ -6,5 +6,3 @@ const heightChecker = function (heights) {
   }
   return count;
 };
-
-heightChecker([1,1,4,2,1,3])

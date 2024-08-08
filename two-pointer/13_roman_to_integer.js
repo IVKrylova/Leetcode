@@ -41,4 +41,3 @@ var romanToInt = function (s) {
   return res;
 };
 
-romanToInt("MCMXCIV"); //1994

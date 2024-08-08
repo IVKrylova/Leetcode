@@ -9,4 +9,3 @@ var lengthOfLastWord = function (s) {
   }
 };
 
-lengthOfLastWord("   fly me   to   the moon  ")
