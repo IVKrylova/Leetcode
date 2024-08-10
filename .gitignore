@@ -16,3 +16,6 @@
 50_pow(x,n).js
 842_split_array_into_fibonacci_sequence.js
 873_length_of_longest_fibonacci_subsequence.js
+
+#linked-list
+19_remove_nth_node_from_end_of_list.js
