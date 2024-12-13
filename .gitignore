@@ -9,6 +9,8 @@
 35_search_insert_position.js
 39_combination_sum.js
 
+124_binary_tree_maximum_path_sum.js
+
 168_excel_sheet_column_title.js
 
 224_basic_calculator.js
@@ -26,6 +28,8 @@
 842_split_array_into_fibonacci_sequence.js
 
 873_length_of_longest_fibonacci_subsequence.js
+
+994_rotting_oranges.js
 
 1584_min_cost_to_connect_all_points.js
 
