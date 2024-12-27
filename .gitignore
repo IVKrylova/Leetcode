@@ -16,6 +16,8 @@
 
 224_basic_calculator.js
 
+236_lowest_common_ancestor_of_a_binary_tree.js
+
 274_h_index.js
 
 316_remove_duplicate_letters.js
@@ -25,6 +27,8 @@
 456_132_pattern.js
 
 486_predict_the_winner.js
+
+560_subarray_sum_equals_k.js
 
 648_replace_words.js
 
