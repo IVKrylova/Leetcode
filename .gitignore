@@ -12,6 +12,8 @@
 
 63_unique_paths_II.js
 
+81_search_in_rotated_sorted_array_II.js
+
 124_binary_tree_maximum_path_sum.js
 
 168_excel_sheet_column_title.js
@@ -52,5 +54,7 @@
 1584_min_cost_to_connect_all_points.js
 
 2134_minimum_swaps_to_group_all_1s_togetherII.js
+
+2241_design_an_ATM_achine.js
 
 2337_move_pieces_to_obtain_a_string.js
