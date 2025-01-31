@@ -12,7 +12,11 @@
 
 63_unique_paths_II.js
 
+95_unique_binary_search_trees_II.js
 99_recover_binary_search_tree.js
+
+105_construct_binary_tree_from_preorder_and_inorder_traversal.js
+108_convert_sorted_array_to_binary_search_tree.js
 
 124_binary_tree_maximum_path_sum.js
 
@@ -45,6 +49,8 @@
 
 712_minimum_ASCII_delete_sum_for_two_strings.js
 718_maximum_length_of_repeated_subarray.js
+
+779_k-th_symbol_in_grammar.js
 
 842_split_array_into_fibonacci_sequence.js
 
