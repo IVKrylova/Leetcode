@@ -6,9 +6,12 @@
 11_container_with_most_water.js
 
 25_reverse_nodes_in_k_group.js
+29_divide_two_integers.js
 
 30_substring_with_concatenation_of_all_words.js
-35_search_insert_position.js
+31_next_permutation.js
+35_search_insert__position.js
+37_sudoku_solver.js
 39_combination_sum.js
 
 40_combination_sum _II.js
