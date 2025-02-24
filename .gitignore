@@ -46,6 +46,8 @@
 
 124_binary_tree_maximum_path_sum.js
 
+152_maximum_product_subarray.js
+
 168_excel_sheet_column_title.js
 
 212_word_search_II.js
@@ -63,6 +65,8 @@
 384_shuffle_an_array.js
 
 390_elimination_game.js
+
+438_find_all_anagrams_in_a_string.js
 
 456_132_pattern.js
 
