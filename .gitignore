@@ -57,12 +57,15 @@
 236_lowest_common_ancestor_of_a_binary_tree.js
 
 274_h_index.js
+275_h-index_II.js
 
 316_remove_duplicate_letters.js
 
 338_counting_bits.js
 
 367_valid_perfect_square.js
+
+378_kth_smallest_element_in_a_sorted_matrix.js
 
 384_shuffle_an_array.js
 
@@ -76,6 +79,8 @@
 
 648_replace_words.js
 650_2_keys_keyboard.js
+
+658_find_k_closest_elements.js
 
 707_design_linked_list.js
 
