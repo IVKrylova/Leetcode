@@ -54,8 +54,6 @@
 
 224_basic_calculator.js
 
-236_lowest_common_ancestor_of_a_binary_tree.js
-
 274_h_index.js
 275_h-index_II.js
 
@@ -71,6 +69,7 @@
 
 390_elimination_game.js
 
+450_delete_node_in_a_BST.js
 456_132_pattern.js
 
 486_predict_the_winner.js
