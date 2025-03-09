@@ -88,17 +88,19 @@
 
 779_k-th_symbol_in_grammar.js
 
+787_cheapest_flights_within_k_stops.js
+
 802_find_eventual_safe_states.js
 
 842_split_array_into_fibonacci_sequence.js
 
 873_length_of_longest_fibonacci_subsequence.js
 
-983_minimum_cost_for_tickets.js
-
 994_rotting_oranges.js
 
 1584_min_cost_to_connect_all_points.js
+
+1631_path_with_minimum_effort.js
 
 2134_minimum_swaps_to_group_all_1s_togetherII.js
 
