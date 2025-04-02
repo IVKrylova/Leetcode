@@ -30,3 +30,22 @@
 // -2^31 <= nums[i] <= 2^31 - 1
 // target is an integer from nums.
 // At most 10^4 calls will be made to pick.
+
+class Solution {
+  #getHash(nums) {
+    const hash = {};
+    for (let i = 0; i < nums.length; i++) {
+      hash[nums[i]] ? hash[nums[i]].push(i) : (hash[nums[i]] = [i]);
+    }
+    return hash;
+  }
+
+  constructor(nums) {
+    this.hash = this.#getHash(nums);
+  }
+
+  pick(target) {
+    const ind = Math.floor(Math.random() * this.hash[target].length);
+    return this.hash[target][ind];
+  }
+}
