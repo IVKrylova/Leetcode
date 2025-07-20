@@ -77,7 +77,6 @@
 
 486_predict_the_winner.js
 
-648_replace_words.js
 650_2_keys_keyboard.js
 
 658_find_k_closest_elements.js
@@ -88,6 +87,8 @@
 
 712_minimum_ASCII_delete_sum_for_two_strings.js
 718_maximum_length_of_repeated_subarray.js
+
+767_reorganize_string.js
 
 779_k-th_symbol_in_grammar.js
 
